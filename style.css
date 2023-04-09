@@ -3,3 +3,11 @@
     max-width: 1000px;
   }
 }
+.button{
+  animation: button 1s infinite;
+}
+@keyframes button{
+  0% {margin-top: 0;}
+  50% {margin-top: 10px;}
+  100% {margin-top: 0;}
+}
