@@ -4,6 +4,7 @@
   }
 }
 .button{
+  position: absolute;
   animation: button 1s infinite;
 }
 @keyframes button{
